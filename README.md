@@ -160,7 +160,6 @@ Example response:
 
 - The project is intentionally deterministic and does not rely on machine learning.
 - The canonical output always includes `unmapped_fields` to preserve unknown inputs.
-- Local schema examples in `antigravity schemas/` are excluded from version control via `.gitignore`.
 - A local SQLite database file such as `fluxschema.db` is also ignored.
 
 ---

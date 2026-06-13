@@ -169,7 +169,6 @@ Example response:
 
 This repository is intended to be initialized as its own Git repository in the workspace root. The included `.gitignore` excludes:
 
-- `antigravity schemas/`
 - `.venv/`
 - `fluxschema.db`
 - Python cache files and editor artifacts
